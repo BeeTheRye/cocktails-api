@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Mojito",
+        "ingredients": ["Rum", "Mint", "Sugar", "Lime", "Soda"],
+        "instructions": "Muddle mint leaves with sugar and lime juice. Add rum and top with soda. Stir well and garnish with a sprig of mint."
+    },
+    {
+        "name": "Old Fashioned",
+        "ingredients": ["Whiskey", "Bitters", "Sugar", "Water"],
+        "instructions": "Muddle sugar with bitters and water. Fill the glass with ice cubes and add whiskey. Garnish with an orange slice and cocktail cherry."
+    },
+    {
+        "name": "Margarita",
+        "ingredients": ["Tequila", "Triple sec", "Lime juice", "Salt"],
+        "instructions": "Rub the rim of the glass with lime slice to make the salt stick. Take a chilled glass, dip in salt. Combine tequila, triple sec, and lime juice and pour into the glass. Serve over ice and garnish with lime."
+    },
+    {
+        "name": "Martini",
+        "ingredients": ["Gin", "Vermouth"],
+        "instructions": "Combine gin and vermouth, pour into a mixing glass with ice cubes, stir well. Strain into chilled martini glass. Garnish with an olive or a twist of lemon peel."
+    },
+    {
+        "name": "Cosmopolitan",
+        "ingredients": ["Vodka", "Triple Sec", "Cranberry Juice", "Lime Juice"],
+        "instructions": "Shake vodka, triple sec, lime and cranberry juice vigorously in a shaker with ice. Strain into a martini glass, garnish with a lime wedge on the rim, and serve."
+    },
+    {
+        "name": "Pina Colada",
+        "ingredients": ["Rum", "Coconut Cream", "Pineapple Juice"],
+        "instructions": "Blend rum, coconut cream, and pineapple juice with one cup of crushed ice. Serve in a chilled glass garnished with a slice of pineapple and a cherry."
+    },
+    {
+        "name": "Bloody Mary",
+        "ingredients": ["Vodka", "Tomato Juice", "Lemon Juice", "Worcestershire Sauce", "Tabasco", "Salt", "Pepper"],
+        "instructions": "Stir together vodka, tomato juice, lemon juice, Worcestershire sauce, Tabasco, salt, and pepper. Serve over ice in a large, tall glass."
+    },
+    {
+        "name": "Daiquiri",
+        "ingredients": ["Rum", "Lime Juice", "Simple Syrup"],
+        "instructions": "Shake all ingredients with ice, strain into a chilled cocktail glass, and garnish with a lime wheel."
+    }
+]
